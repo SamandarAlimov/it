@@ -1,0 +1,19 @@
+project_id = "kjmvssrdutfewrwbebgw"
+
+[functions.create-template-checkout]
+verify_jwt = false
+
+[functions.verify-template-purchase]
+verify_jwt = false
+
+[functions.send-notification-email]
+verify_jwt = false
+
+[functions.builder-ai]
+verify_jwt = false
+
+[functions.project-chat-ai]
+verify_jwt = false
+
+[functions.generate-preview]
+verify_jwt = false
